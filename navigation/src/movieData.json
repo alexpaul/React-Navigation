@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Guess Who's Coming to Dinner",
+      "description": "A couple's attitudes are challenged when their daughter introduces them to her African-American fiancé.",
+      "year": 1967,
+      "url": "https://www.imdb.com/title/tt0061735/?ref_=nv_sr_srsg_0",
+      "image": "https://resizing.flixster.com/eVj9rlaiOK2KWJPDZQWe923yjOk=/206x305/v2/https://flxt.tmsimg.com/assets/p1097_p_v13_af.jpg",
+      "genre": ["Comedy", "Drama"]
+  },
+  {
+      "title": "Malcolm X",
+      "description": "Biographical epic of the controversial and influential Black Nationalist leader, from his early life and career as a small-time gangster, to his ministry as a member of the Nation of Islam.",
+      "year": 1992,
+      "url": "https://www.imdb.com/title/tt0104797/?ref_=nv_sr_srsg_0",
+      "image": "https://resizing.flixster.com/UtlZkUn22gU3QXOEuvrVAS8jqPo=/206x305/v2/https://flxt.tmsimg.com/assets/p14384_p_v10_ac.jpg",
+      "genre": ["Biography", "Drama", "History"]
+  },
+  {
+      "title": "Talk to Me",
+      "description": "The story of Washington D.C. radio personality Ralph Petey Greene, an ex-con who became a popular talk show host and community activist in the 1960s.",
+      "year": 2007,
+      "url": "https://www.imdb.com/title/tt0796368/?ref_=nv_sr_srsg_1",
+      "image": "https://resizing.flixster.com/EGFOqIYMQBAdSjzkMVjfjnLRgQo=/206x305/v2/https://flxt.tmsimg.com/assets/p166530_p_v10_aa.jpg",
+      "genre": ["Biography", "Drama", "History"]
+  }
+]
